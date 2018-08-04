@@ -6,8 +6,7 @@ package co.grandcircus.exercise_09;
 public class HelloWorldInternationalApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
